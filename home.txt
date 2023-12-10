@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Vou aprender isso nem que sejo na marra
-Linha escrita na main
-=======
-Vou aprender isso nem que sejA na marra
-Linha escrita na outra branch
->>>>>>> outra-branch
+E
